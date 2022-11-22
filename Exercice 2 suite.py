@@ -1,41 +1,41 @@
-print(" | | ")
-print("-----")
-print(" | | ")
-print("-----")
-print(" | | ")
+A=print(" | | ")
+B=print("-----")
+C=print(" | | ")
+D=print("-----")
+E=print(" | | ")
 
 
 
-A= ("x,x,x")
+F= ("x,x,x")
      
- B=("x, , ")
-   ("x, , ") 
-   ("x, , ")
+G=("x, , ")
+("x, , ") 
+("x, , ")
 
-  C=("x, , ")
-    (" ,x, ") 
-    (" , ,x")
+H=("x, , ")
+(" ,x, ") 
+(" , ,x")
 
-  D=(" , ,x")
-    (" ,x, ")
-    ("x, , ") 
+I=(" , ,x")
+(" ,x, ")
+("x, , ") 
 
 
 
 
 while():
-    print("x")
-    print("o")
-    print("x")
-    print("o")
-    print("x")
-    print("o")
-    print("x")
-    print("o")
-    print("x")
+    print("x") (A,2)
+    print("o") (C,3)
+    print("x") (E,1)
+    print("o") (A,1)
+    print("x") (E,3)
+    print("o") (E,2)
+    print("x") (A,3)
+    print("o") (C,2)
+    print("x") (C,1)
   
-   if
-    "x" or "o" =A,B,C,D
+   if():
+        "x" or "o" =F,G,H,I
 
 
         print(" | | ")
